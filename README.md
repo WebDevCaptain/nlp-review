@@ -22,7 +22,7 @@ This is a repo for reviewing basics of NLP.
    - Information Extraction and NER (Named Entity Recognition)
    - Using Spacy pipeline
    - Web Scraping
-   - Visualizing Named Entities using `displaycy`
+   - Visualizing Named Entities using `displacy`
 
 ---
 
