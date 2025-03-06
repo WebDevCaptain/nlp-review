@@ -17,6 +17,13 @@ This is a repo for reviewing basics of NLP.
    - Regexp tokenizer
    - Data cleaning
 
+3. [Named Entity Recognition](./3-named_entity_recognition.ipynb)
+
+   - Information Extraction and NER (Named Entity Recognition)
+   - Using Spacy pipeline
+   - Web Scraping
+   - Visualizing Named Entities using `displaycy`
+
 ---
 
 ## Extra Content
