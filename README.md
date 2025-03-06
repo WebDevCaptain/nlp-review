@@ -4,11 +4,18 @@ This is a repo for reviewing basics of NLP.
 
 ## Contents
 
-1. Basics
+1. [Basics](./1-nlp_basics.ipynb)
+
    - Tokenization
    - Part of Speech (POS) tagging and Parse tree
    - Lemmatization
    - Stemming
+
+2. [Text Preprocessing](./2-text_preprocessing.ipynb)
+
+   - Stopword removal
+   - Regexp tokenizer
+   - Data cleaning
 
 ---
 
