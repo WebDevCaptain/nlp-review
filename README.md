@@ -24,6 +24,12 @@ This is a repo for reviewing basics of NLP.
    - Web Scraping
    - Visualizing Named Entities using `displacy`
 
+4. [Sentiment Analysis](./4-sentiment_analysis.ipynb)
+
+   - Exploratory Data Analysis
+   - Using Spacy for training a sentiment analysis model (using custom data)
+   - Model evaluation and persistence
+
 ---
 
 ## Extra Content
