@@ -1,6 +1,8 @@
 # Natural Language Processing
 
-This is a repo for reviewing basics of NLP.
+Repository for reviewing basics of NLP. It contains various notebooks covering almost all the topics related to NLP. It also hosts multiple projects and datasets.
+
+---
 
 ## Contents
 
@@ -58,7 +60,7 @@ This is a repo for reviewing basics of NLP.
    - Binary classification (Fake or Real news)
    - One-hot encoding of features using Keras preprocessing utility
    - Word embeddings
-   - [Training Dataset](https://drive.google.com/file/d/1gsJ90FOeAAB2tm9OWn_M5vV0TvpBWcCz/view?usp=sharing)
+   - [Dataset](https://drive.google.com/file/d/1gsJ90FOeAAB2tm9OWn_M5vV0TvpBWcCz/view?usp=sharing)
 
 ---
 
