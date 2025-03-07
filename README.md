@@ -50,6 +50,15 @@ This is a repo for reviewing basics of NLP.
    - Transfer Learning using Word2Vec and Google News weights
    - Netflix recommendation system based on what you watched (using cosine similarity from Scikit learn)
 
+8. [Fake News Detection](./8-fake_news_detection.ipynb)
+
+   - LSTM based neural network for fake news detection (using Tensorflow and Keras)
+   - Using custom dataset for training a Deep Neural Network for NLP
+   - Data preprocessing and cleaning
+   - Binary classification (Fake or Real news)
+   - One-hot encoding of features using Keras preprocessing utility
+   - Word embeddings
+
 ---
 
 ## Extra Content
