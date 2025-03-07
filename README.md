@@ -67,3 +67,21 @@ This is a repo for reviewing basics of NLP.
    - Perform _speech to text_ using **Google's speech recognition engine** and `OpenAI's Whisper` models.
    - `Librosa` is used for audio processing
    - `SpeechRecognition` package is used for speech recognition.
+
+---
+
+## Libraries Used
+
+1. NLTK
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Scikit-learn
+6. Tensorflow
+7. Spacy
+8. Gensim
+9. Sumy
+10. OpenAI Whisper
+11. SpeechRecognition
+12. WordCloud
+13. Librosa
