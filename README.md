@@ -36,6 +36,14 @@ This is a repo for reviewing basics of NLP.
    - TF-IDF based summarization using Scikit-learn (Non-gramatical summaries 😭)
    - TextRank based summarization using Sumy library.
 
+6. [Topic Modelling (NMF)](./6-topic_modelling.ipynb)
+
+   - Using NMF(Non-negative Matrix Factorization) for Topic Modelling
+   - Unsupervised text classification
+   - WordCloud for visualizing topics
+   - Using NMF model with Tf-Idf vectorizer
+   - [TODO]: Try LDA (Latent Dirichlet Allocation) for Topic Modelling
+
 ---
 
 ## Extra Content
