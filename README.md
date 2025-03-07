@@ -38,11 +38,17 @@ This is a repo for reviewing basics of NLP.
 
 6. [Topic Modelling (NMF)](./6-topic_modelling.ipynb)
 
-   - Using NMF(Non-negative Matrix Factorization) for Topic Modelling
+   - Using NMF(Non-negative Matrix Factorization) suggest topics for BBC news articles
    - Unsupervised text classification
    - WordCloud for visualizing topics
    - Using NMF model with Tf-Idf vectorizer
    - [TODO]: Try LDA (Latent Dirichlet Allocation) for Topic Modelling
+
+7. [Recommendation Systems](./7-recommendation_systems.ipynb)
+
+   - Word2Vec model from Gensim
+   - Transfer Learning using Word2Vec and Google News weights
+   - Netflix recommendation system based on what you watched (using cosine similarity from Scikit learn)
 
 ---
 
