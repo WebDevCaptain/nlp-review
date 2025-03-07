@@ -73,15 +73,16 @@ This is a repo for reviewing basics of NLP.
 ## Libraries Used
 
 1. NLTK
-2. Pandas
-3. Matplotlib
-4. Seaborn
+2. Spacy
+3. Gensim
+4. Sumy
 5. Scikit-learn
 6. Tensorflow
-7. Spacy
-8. Gensim
-9. Sumy
-10. OpenAI Whisper
-11. SpeechRecognition
-12. WordCloud
-13. Librosa
+7. OpenAI Whisper
+8. SpeechRecognition
+9. WordCloud
+10. Librosa
+11. Numpy
+12. Pandas
+13. Matplotlib
+14. Seaborn
