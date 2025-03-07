@@ -58,6 +58,7 @@ This is a repo for reviewing basics of NLP.
    - Binary classification (Fake or Real news)
    - One-hot encoding of features using Keras preprocessing utility
    - Word embeddings
+   - [Training Dataset](https://drive.google.com/file/d/1gsJ90FOeAAB2tm9OWn_M5vV0TvpBWcCz/view?usp=sharing)
 
 ---
 
