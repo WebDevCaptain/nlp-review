@@ -30,6 +30,12 @@ This is a repo for reviewing basics of NLP.
    - Using Spacy for training a sentiment analysis model (using custom data)
    - Model evaluation and persistence
 
+5. [Text Summarization](./5-extraction_based_summarization.ipynb)
+
+   - Scraping Wikipedia API for articles
+   - TF-IDF based summarization using Scikit-learn (Non-gramatical summaries 😭)
+   - TextRank based summarization using Sumy library.
+
 ---
 
 ## Extra Content
