@@ -86,3 +86,11 @@ This is a repo for reviewing basics of NLP.
 12. Pandas
 13. Matplotlib
 14. Seaborn
+
+---
+
+## License
+
+This repository is released under the [MIT License](./LICENSE). It can be used for educational purposes, as well as for NLP related training, with proper attribution.
+
+If you find it useful, please consider contributing back to the repository.
